@@ -1,48 +1,49 @@
-Aplikasi Presensi Pegawai Berbasis QR Code
-Deskripsi
-Aplikasi ini dirancang untuk membantu perusahaan atau organisasi dalam mengelola data presensi pegawai secara efektif menggunakan teknologi QR Code. Dengan fitur-fitur yang lengkap, aplikasi ini memberikan kemudahan dalam pengelolaan data kehadiran, akun pegawai, dan evaluasi kinerja.
+QR Code-Based Employee Attendance Application
+Description
+This application is designed to help companies or organizations effectively manage employee attendance data using QR Code technology. With comprehensive features, it simplifies the management of attendance records, user accounts, and performance evaluations.
 
-Fitur Utama
-Login dan Logout
-Presensi Pegawai: Menggunakan QR Code untuk absensi.
-Kelola Akun: Administrasi akun pengguna.
-Kelola Data Pegawai: Tambah, ubah, atau hapus data pegawai.
-Kelola Data Presensi: Monitoring dan pembaruan data presensi.
-Kelola Jabatan: Manajemen posisi atau jabatan pegawai.
-Cetak Rekapitulasi: Laporan data presensi dalam format cetak.
-Evaluasi Diri: Analisis kinerja pegawai.
-Instalasi
-Unduh dan Ekstrak
-Unduh file ZIP proyek ini dan ekstrak ke direktori server Anda.
+Key Features
+Login and Logout
+Employee Attendance: Use QR codes for attendance.
+Account Management: Administer user accounts.
+Employee Data Management: Add, edit, or delete employee information.
+Attendance Data Management: Monitor and update attendance records.
+Position Management: Manage employee positions or job titles.
+Print Recapitulation: Generate printable attendance reports.
+Self-Evaluation: Analyze employee performance.
+Installation
+Download and Extract
+Download the project ZIP file and extract it to your server directory.
 
-Siapkan Database
+Database Setup
 
-Buat database baru menggunakan file database yang telah disediakan ([nama_file_database].sql).
-Import file tersebut ke dalam database Anda.
-Konfigurasi Koneksi Database
+Create a new database using the provided database file ([database_file_name].sql).
+Import the file into your database.
+Configure Database Connection
 
-Buka file application/config/database.php.
-Sesuaikan konfigurasi dengan kredensial database Anda.
+Open the file application/config/database.php.
+Adjust the configuration to match your database credentials:
 php
 Copy code
 'hostname' => 'localhost',
 'username' => 'root',
 'password' => '',
-'database' => '[nama_database]',
-Jalankan Proyek
-Akses aplikasi melalui browser menggunakan URL server lokal Anda.
-Teknologi yang Digunakan
+'database' => '[your_database_name]',
+Run the Application
+Access the application via your local server's URL in a browser.
+
+Technologies Used
 Framework: CodeIgniter 3 (CI3)
-Bahasa Pemrograman: PHP
+Programming Language: PHP
 Frontend: Bootstrap, JavaScript
 Database: MySQL
-Interaksi Asinkron: AJAX
-Kredensial Uji Coba
-Untuk kredensial uji coba, silakan hubungi: Pius Tae
+Asynchronous Interaction: AJAX
+Testing Credentials
+For testing credentials, please contact: Pius Tae
 
-Kontributor
+Contributors
 Pius Tae
 Endry Lalupanda
 Jordan Alethino
-Lisensi
-Belum ada lisensi yang diterapkan untuk proyek ini.
+License
+No license has been applied to this project yet.
