@@ -50,19 +50,3 @@ Contributors
 Pius Tae
 Endry Lalupanda
 Jordan Alethino
-License
-No license has been applied to this project yet.
-
-yaml
-Copy code
-
----
-
-### **Tips agar lebih rapi di GitHub**:
-1. **Gunakan baris kosong antara elemen Markdown.**  
-   Markdown memerlukan baris kosong agar elemen seperti heading, list, atau paragraf tampil dengan benar.  
-
-2. **Cek di GitHub secara langsung.**  
-   Pastikan Anda menyalin file ini ke `README.md` dan mendorongnya ke GitHub. Setelah itu, cek tampilan langsung di browser.  
-
-Kalau masih ada masalah, beri tahu saya, dan saya bantu lebih lanjut! 😊
