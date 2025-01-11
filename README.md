@@ -46,7 +46,7 @@ Asynchronous Interaction: AJAX
 Testing Credentials
 For testing credentials, please contact: Pius Tae
 
-Contributors
-Pius Tae
-Endry Lalupanda
-Jordan Alethino
+## Contributors
+- Pius Tae
+- Endry Lalupanda
+- Jordan Alethino
